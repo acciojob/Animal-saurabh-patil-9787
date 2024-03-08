@@ -2,11 +2,11 @@
 body{
 	background-color:#444444;
 }
-.animal-photos{
+#animal-photos{
 	text-align:center;
 	
 }
-.photo-heading{
+#photo-heading{
 	color:white;
 }
 img{
